@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.card_container {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 4px;
+  padding: 10px;
+}
